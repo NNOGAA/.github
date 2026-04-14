@@ -12,7 +12,7 @@ NOGA helps users make informed dietary choices by scanning food packaging labels
 
 NOGA was recognized as **Favorite Winner** at **Arkavidia 9.0 Hackathon**, a national-level hackathon held in Bandung.
 
-![NOGA - Favorite Winner Arkavidia 9.0](./assets/image.png)
+![NOGA - Favorite Winner Arkavidia 9.0](./assets/Image.png)
 
 ## 🏗️ Architecture
 
