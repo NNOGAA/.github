@@ -6,6 +6,14 @@ AI-powered mobile app for analyzing food nutrition through image recognition and
 
 NOGA helps users make informed dietary choices by scanning food packaging labels and providing instant health analysis with personalized recommendations.
 
+## 🏆 Achievement
+
+**Favorite Winner — Arkavidia 9.0 Hackathon (Bandung) | National**
+
+NOGA was recognized as **Favorite Winner** at **Arkavidia 9.0 Hackathon**, a national-level hackathon held in Bandung.
+
+![NOGA - Favorite Winner Arkavidia 9.0](./assets/arkavidia-win.jpg)
+
 ## 🏗️ Architecture
 ```
 Mobile App (React Native) 
